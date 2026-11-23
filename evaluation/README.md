@@ -6,7 +6,7 @@ Outputs are assessed against case-specific reference GD conditions. Method names
 
 | Count | Definition |
 |---|---|
-| TP | A reference item whose conditions are all correct, supported by the available inputs, and recorded as settled. |
+| TP | A reference item for which each condition is correct, supported by the available inputs, and stated as an established condition. |
 | FN | A reference item that does not satisfy the TP criteria, including items left unresolved. |
 | FP | A distinct confirmed semantic error in the output. |
 
